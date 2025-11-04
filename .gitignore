@@ -1,0 +1,15 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore local databases
+*.db
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment files
+.env
+
+# Ignore Streamlit or temporary data
+.streamlit/
