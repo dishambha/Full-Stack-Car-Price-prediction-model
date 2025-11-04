@@ -210,3 +210,6 @@ def predict_price(request: PredictionRequest, db: Session = Depends(get_db)):
         feature_importance=importance_list,
         depreciation_curve=depreciation_data
     )
+@app.get("/")
+def home():
+    return {"message": "🚗 Car Price Prediction API is live on Render!"}
