@@ -8,7 +8,8 @@ import numpy as np
 from typing import Dict, Any, List
 
 # --- Configuration ---
-FASTAPI_BASE_URL = "http://127.0.0.1:8000/api/v1"
+FASTAPI_BASE_URL = "https://full-stack-car-price-prediction-model-1.onrender.com/api/v1"
+
 
 # --- Utility Functions ---
 
