@@ -1,24 +1,21 @@
 # 🚗 Indian Vehicle Price Predictor (IVPP) – Full Stack ML Web Application
 
-This project is a Full Stack Machine Learning Web Application that predicts the fair market price of Indian cars and bikes based on features such as brand, age, kilometers driven, fuel type, seller type, transmission, and owner type. It provides real-time predictions along with confidence range, feature importance visualization, and future depreciation forecasting.
+* This project is a Full Stack Machine Learning Web Application that predicts the fair market price of Indian cars and bikes based on features such as brand, age, kilometers driven, fuel type, seller type, transmission, and owner type. It provides real-time predictions along with confidence range, feature importance visualization, and future depreciation forecasting.
 
-🌐 Live Project Links
+# 🌐 Live Project Links
 
-Frontend (Streamlit UI): https://full-stack-car-price-prediction-model-6v7sr9gkzqfg2rps2mfqug.streamlit.app/
+* Frontend (Streamlit UI): https://full-stack-car-price-prediction-model-6v7sr9gkzqfg2rps2mfqug.streamlit.app/
+* Backend (FastAPI API): https://full-stack-car-price-prediction-model-1.onrender.com
+* API Swagger Docs: https://full-stack-car-price-prediction-model-1.onrender.com/docs
+* GitHub Repo: https://github.com/dishambha/Full-Stack-Car-Price-prediction-model
 
-Backend (FastAPI API): https://full-stack-car-price-prediction-model-1.onrender.com
+# 🧱 Tech Stack
 
-API Swagger Docs: https://full-stack-car-price-prediction-model-1.onrender.com/docs
-
-GitHub Repo: https://github.com/dishambha/Full-Stack-Car-Price-prediction-model
-
-🧱 Tech Stack
-
-Frontend: Streamlit
-Backend: FastAPI (Python)
-Machine Learning: Scikit-Learn, Pandas, NumPy
-Deployment: Render (Backend), Streamlit Cloud (Frontend)
-Version Control: Git & GitHub
+* Frontend: Streamlit
+* Backend: FastAPI (Python)
+* Machine Learning: Scikit-Learn, Pandas, NumPy
+* Deployment: Render (Backend), Streamlit Cloud (Frontend)
+* Version Control: Git & GitHub
 
 ✨ Features
 
